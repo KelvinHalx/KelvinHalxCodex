@@ -25,6 +25,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "CSS"
   description = "80%"
+  
+[[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "Java Script"
+  description = "65%"
 
 [[feature]]
   icon = "android"
