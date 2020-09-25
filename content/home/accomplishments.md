@@ -31,9 +31,9 @@ date_format = "Jan 2006"
 [[item]]
   organization = "CISCO NETWORKING"
   organization_url = "https://www.netcad.com/"
-  title = "Blockchain Fundamentals"
-  url = "https://www.netacad.com/courses/programming/pcap-programming-essentials-python"
-  certificate_url = "https:https://www.netacad.com/courses/programming/pcap-programming-essentials-python"
+  title = "PYTHON"
+  url = "https://www.netacad.com/"
+  certificate_url = ""
   date_start = "2019-03-01"
   date_end = ""
   description = "Design a web or desktop application in Python."
@@ -47,5 +47,6 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = "2019-12-18"
   description = "Learn Basic Java Skill sets."
+
 
 +++
