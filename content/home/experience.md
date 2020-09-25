@@ -17,10 +17,11 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Mentor"
   company = "DSC Laikipia University"
-  company_url = "https://dsc.community.dev/laikipia-university/"
+  company_url = "https://dsc.community.dev/laikipia-university"
   location = "Nyahururu-Kenya"
   date_start = "2020-09-07"
   date_end = ""
@@ -31,7 +32,6 @@ date_format = "Jan 2006"
   * Designing and Developing Websites
   * Deploying
   """
-
 [[experience]]
   title = "CEO and Founder"
   company = "Knight Of Code"
@@ -46,7 +46,6 @@ date_format = "Jan 2006"
   *  Developing Websites
   *  Designing and Developing Logos
   """
-
 [[experience]]
   title = "Enumerator"
   company = "Kenya National Bearue of Statistics"
@@ -59,7 +58,7 @@ date_format = "Jan 2006"
   
   *  Mapping Areas
   *  Determining Boarders
-  *  Calculating Population of People within the area
+  *  Calculating Population of People within the area """
   
 
 +++
