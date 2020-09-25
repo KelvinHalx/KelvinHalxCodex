@@ -15,22 +15,35 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "terminal"
-  icon_pack = "fas"
-  name = "Terminal"
-  description = "70%"
-  
+  icon = "html5"
+  icon_pack = "fab"
+  name = "Html5"
+  description = "80%"
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "css3"
+  icon_pack = "fab"
+  name = "CSS"
+  description = "80%"
+
+[[feature]]
+  icon = "android"
+  icon_pack = "fab"
+  name = "Android"
+  description = "70%"
+
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "75%"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Terminal"
+  description = "70%"
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
