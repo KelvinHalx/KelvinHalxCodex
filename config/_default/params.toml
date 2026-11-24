@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Tenda Tech"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Fullstack software engineer in Nairobi focused on Python (Django, Flask) and JavaScript (React, React Native, TypeScript, Vue, Angular). Co-Founder & Senior Fullstack Software Engineer at Tenda Tech."
 
 ############################
 ## Site Features
@@ -75,7 +75,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/KelvinHalx/KelvinHalxCodex", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "kelvinwainaina03@gmail.com"
-phone = "(+254) 724 829 888"
+email = "kelvin.wainaina@tendatech.net"
+phone = "+254 724 829 888"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {city = "Nairobi-Kenya",  country = "Kenya", country_code = "KE"}
+address = {street = "P.O. Box 2246-0100", city = "Nairobi", country = "Kenya", country_code = "KE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,19 +104,21 @@ address = {city = "Nairobi-Kenya",  country = "Kenya", country_code = "KE"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday-Friday 08:00 to 18:00"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/kelvinwainaina"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Tweet Me", link = "https://twitter.com/Kelvin_Halx"},
-  {icon = "facebook", icon_pack = "fab", name = "FaceBook ", link = "https://web.facebook.com/kelvinhalx"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "envelope", icon_pack = "fas", name = "kelvin.wainaina@tendatech.net", link = "mailto:kelvin.wainaina@tendatech.net"},
+  {icon = "phone", icon_pack = "fas", name = "+1 (478) 285-9723 (US)", link = "tel:+14782859723"},
+  {icon = "github", icon_pack = "fab", name = "GitHub", link = "https://github.com/KelvinHalx"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/kelvinndungu/"},
+  {icon = "award", icon_pack = "fas", name = "Verify on Credly", link = "https://www.credly.com/users/kelvinndunguwainaina/badges"},
+  {icon = "globe", icon_pack = "fas", name = "Tenda Tech Profile", link = "https://www.tendatech.net/KelvinWainaina"},
+  {icon = "file-download", icon_pack = "fas", name = "Download CV (PDF)", link = "files/kelvin-wainaina-resume.pdf"},
   ]
 
 ############################
@@ -124,10 +126,10 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "kelvin.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "Kelvin_Halx"
+twitter = ""
 
 ############################
 ## Regional Settings
@@ -265,7 +267,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 

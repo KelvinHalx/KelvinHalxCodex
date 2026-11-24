@@ -1,25 +1,12 @@
+# Kelvin Ndungu Wainaina — Portfolio
 
-### Hi, I'm Kelvin Halx!! 👋
+Personal portfolio website built with Hugo and Wowchemy, deployed on Netlify at [https://kelvinndungu.netlify.app/](https://kelvinndungu.netlify.app/).
 
-|:heart: Learning | :yellow_heart: Gaming| :black_heart: Programming|
-|:---:|:---:|:---:|
+**Co-Founder & Senior Fullstack Software Engineer** at [Tenda Tech](https://www.tendatech.net/KelvinWainaina) · Nairobi, Kenya.
 
-Student at Laikipia University Bsc. Computer Science 
--    https://kelvinndungu.netlify.app/
-
-
-Current Lifestyle:
-
-|:sleeping: Sleep|:pizza: Eat|:computer: Code|:repeat: Repeat|
-|:---:|:---:|:---:|:---:|
-
-## :climbing_man: LOT TO LEARN!!!
-
-📫 How to reach me:
-
-Twitter--[@KelvinHalx](https://twitter.com/KelvinHalx).
-
-E-mail--[kelvinwainaina03@gmail.comcom](kelvinwainaina03@gmail.com).
-
-Phone [0724829888]
-
+- **Stack:** Python (Django, Flask), Java, JavaScript, TypeScript, React, React Native, Vue, Angular, REST, GraphQL
+- **Email:** [kelvin.wainaina@tendatech.net](mailto:kelvin.wainaina@tendatech.net)
+- **Phone:** +254 724 829 888 (KE) · +1 (478) 285-9723 (US)
+- **GitHub:** [@KelvinHalx](https://github.com/KelvinHalx)
+- **LinkedIn:** [linkedin.com/in/kelvinndungu](https://www.linkedin.com/in/kelvinndungu/)
+- **Credly:** [Digital Credentials](https://www.credly.com/users/kelvinndunguwainaina/badges)
