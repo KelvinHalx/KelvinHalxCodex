@@ -1,52 +1,59 @@
 +++
-# Accomplishments widget.
+# Accomplishments widget — Digital credentials & certifications.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 60  # Order that this section will appear in.
 
-title = "Accomplish&shy;ments"
-subtitle = ""
+title = "Credentials"
+subtitle = "Digital credentials & certifications."
 
 # Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
-
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+date_format = "Jan 2, 2006"
 
 [[item]]
-  organization = "CISCO NETWORKING"
-  organization_url = "https://www.netcad.com"
-  title = "IT Essentials"
-  url = ""
-  certificate_url = "https://www.netcad.com"
-  date_start = "2018-08-17"
+  organization = "Cisco"
+  organization_url = "https://www.netacad.com"
+  title = "Introduction to Cybersecurity"
+  url = "https://www.credly.com/users/kelvinndunguwainaina/badges"
+  certificate_url = "https://www.credly.com/users/kelvinndunguwainaina/badges"
+  date_start = "2022-06-03"
   date_end = ""
-  description = "Basic introduction to Software and Hardware.Operating Systems,Networking and Trouble-Shooting"
+  description = "Verified digital credential issued by Cisco."
 
 [[item]]
-  organization = "Udemy"
-  organization_url = "https://www.udemy.com"
-  title = "Python3 BootCamp"
-  url = ""
-  certificate_url = "https://www.udemy.com"
-  date_start = "2019-03-01"
+  organization = "Cisco"
+  organization_url = "https://www.netacad.com"
+  title = "Introduction to IoT"
+  url = "https://www.credly.com/users/kelvinndunguwainaina/badges"
+  certificate_url = "https://www.credly.com/users/kelvinndunguwainaina/badges"
+  date_start = "2021-05-09"
   date_end = ""
-  description = "Design a web or desktop application in Python."
-  
+  description = "Verified digital credential issued by Cisco."
+
 [[item]]
-  organization = "Udemy"
-  organization_url = "https://www.udemy.com/course"
-  title = " JavaScript Basics"
-  url = ""
-  certificate_url = "https://www.udemy.com/course/javascript-basics-start-coding-in-5-minutes-2019"
-  date_start = "2019-07-01"
+  organization = "Cisco"
+  organization_url = "https://www.netacad.com"
+  title = "CCNA: Switching, Routing, and Wireless Essentials"
+  url = "https://www.credly.com/users/kelvinndunguwainaina/badges"
+  certificate_url = "https://www.credly.com/users/kelvinndunguwainaina/badges"
+  date_start = "2021-02-15"
   date_end = ""
-  description = "Learn Basic Java Skill sets."
+  description = "Verified Cisco Networking Academy digital credential."
 
-
+[[item]]
+  organization = "Cisco"
+  organization_url = "https://www.netacad.com"
+  title = "CCNA: Introduction to Networks"
+  url = "https://www.credly.com/users/kelvinndunguwainaina/badges"
+  certificate_url = "https://www.credly.com/users/kelvinndunguwainaina/badges"
+  date_start = "2020-12-14"
+  date_end = ""
+  description = "Verified Cisco Networking Academy digital credential."
 +++
+
+<p class="mb-4">
+  <a class="btn btn-outline-primary btn-sm" href="https://www.credly.com/users/kelvinndunguwainaina/badges" target="_blank" rel="noopener">
+    <i class="fas fa-award pr-1 fa-fw" aria-hidden="true"></i> Verify on Credly
+  </a>
+</p>

@@ -3,62 +3,83 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 40  # Order that this section will appear in.
 
 title = "Experience"
-subtitle = ""
+subtitle = "Where I’ve shipped."
 
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[experience]]
-  title = "Mentor"
-  company = "DSC Laikipia University"
-  company_url = "https://dsc.community.dev/laikipia-university"
-  location = "Nyahururu-Kenya"
-  date_start = "2020-09-07"
+  title = "Co-Founder & Senior Fullstack Software Engineer"
+  company = "Tenda Tech"
+  company_url = "https://www.tendatech.net"
+  location = "Nairobi, Kenya"
+  date_start = "2025-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Leading Web Development Meet-ups
-  * Designing and Developing Websites
-  * Deploying
+  * Co-found Tenda Tech and lead delivery of web and mobile software solutions for multiple client organizations.
+  * Design, build and deploy scalable web applications and e-commerce platforms, improving user engagement by 20% and reducing load times by 15%.
+  * Lead the full software development lifecycle from requirements gathering and UI/UX design to backend development, deployment and maintenance.
+  * Serve as Lead Engineer on production React Native mobile applications, overseeing architecture and successful releases to Google Play Store and Apple App Store.
+  * Provide consulting in application development, digital marketing systems, coding education platforms and cybersecurity solutions.
+  * Collaborate with cross-functional teams and client stakeholders to deliver secure, high-performance and maintainable systems.
   """
+
 [[experience]]
-  title = "CEO and Founder"
-  company = "Knight Of Code"
-  company_url = "https://web.facebook.com/KnightOfCode"
-  location = "Nairobi-Kenya"
-  date_start = "2019-01-01"
+  title = "Digital Platform Manager (Consultant)"
+  company = "The Newberry Institute"
+  company_url = "https://thenewberryinstitute.vercel.app"
+  location = "Hawkinsville, Georgia"
+  date_start = "2022-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Creating Avatars
-  *  Developing Websites
-  *  Designing and Developing Logos
+  * Coordinated the Forestry Micro-Internship Program for youth ages 17–25, connecting students with hands-on training in conservation and sustainability.
+  * Helped design and implement Rosa's Food Pantry and Rosa's Second Harvest, expanding access to fresh, affordable food for families in rural Georgia.
+  * Organize and facilitate youth engagement events — civic forums, cultural programs, art workshops and history conversations.
+  * Manage social media, newsletters and outreach campaigns, amplifying youth and community voices while increasing program visibility.
+  * Assist in grant applications and fundraising, aligning proposals with funder priorities in education, democracy and food equity.
   """
-[[experience]]
-  title = "Enumerator"
-  company = "Kenya National Bearue of Statistics"
-  company_url = "https://www.knbs.or.ke/"
-  location = "Kiambu-Kenya"
-  date_start = "2019-08-14"
-  date_end = "2019-08-31"
-  description = """
-  Responsibilities include:
-  
-  *  Mapping Areas
-  *  Determining Boarders
-  *  Calculating Population of People within the area """
-  
 
+[[experience]]
+  title = "Software Developer (Full Stack)"
+  company = "Sparepap Limited"
+  company_url = ""
+  location = "Nairobi, Kenya"
+  date_start = "2022-08-01"
+  date_end = "2024-09-30"
+  description = """
+  * Designed and developed an e-commerce platform, operational management system and merchant management portal using React and Angular.
+  * Developed and optimized RESTful API integrations linking backend and frontend for seamless user experiences.
+  * Led backend development using Python (Django) and Java, including database design, server-side logic and security implementation.
+  * Collaborated with cross-functional teams to optimize workflows, enhance performance and ensure scalability.
+  """
+
+[[experience]]
+  title = "Consultant (Full Stack Developer)"
+  company = "GET BODA (Fleet)"
+  company_url = ""
+  location = "Nairobi, Kenya"
+  date_start = "2023-06-01"
+  date_end = "2023-09-30"
+  description = """
+  * Collaborated with cross-functional teams to gather requirements and implement new platform features.
+  * Developed and maintained RESTful APIs in Python, integrating seamlessly with frontend applications.
+  * Built and optimized user interfaces with React, delivering a responsive and intuitive experience.
+  * Wrote clean, maintainable code in Python (Flask) and JavaScript (Angular) for a scalable architecture.
+  """
+
+[[experience]]
+  title = "Consultant (Web Developer)"
+  company = "Union Portal — Kenya Medical Practitioners Pharmacy and Dentist Union"
+  company_url = ""
+  location = "Nairobi, Kenya"
+  date_start = "2022-01-01"
+  date_end = "2022-05-31"
+  description = """
+  * Designed and deployed a union management system using PHP (Laravel) with API support for a mobile app.
+  * Enabled the union to manage member records, share newsletters, post open positions and address concerns through a centralized platform.
+  * Improved administrative efficiency and engagement by digitizing manual processes.
+  """
 +++

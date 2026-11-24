@@ -10,68 +10,70 @@ authors:
 superuser: true
 
 # Role/position
-role: Bsc. Computer Science (Student)
+role: Co-Founder & Senior Fullstack Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Laikipia University
-  url: "https://www.laikipia.ac.ke/"
+- name: Tenda Tech
+  url: "https://www.tendatech.net"
+- name: The Newberry Institute
+  url: "https://thenewberryinstitute.vercel.app"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Web Design and Development,Android  Development and Machine Learning.
+bio: "Fullstack engineer. Python, JavaScript, and products that ship."
 
 interests:
-- Machine Learning
-- Android Development (Kotlin)
-- Web Development (Flask and Django)
+- Python (Django, Flask) & Java Backend Systems
+- JavaScript & TypeScript (React, React Native, Vue, Angular)
+- REST & GraphQL API Design & Database Architecture
+- Production Mobile Releases (App Store & Play Store)
+- Digital Strategy & Technical Consulting
 
 education:
   courses:
-  - course: Bsc in Computer Science
-    institution: Laikipia  University
-    year: 2018 - to date
-  - course: Kenya Certificate of Secondary Education
-    institution: Baari Secondary School
-    year: 2017
+  - course: BSc, Computer Science
+    institution: Laikipia University, Nyahururu, Kenya
+  - course: KCSE (Kenya Certificate of Secondary Education)
+    institution: Baari Secondary School, Nyahururu, Kenya
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:kelvinwainaina@gmail.com".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Kelvin_Halx
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:kelvin.wainaina@tendatech.net'
 - icon: github
   icon_pack: fab
   link: https://github.com/KelvinHalx
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kelvinndungu/
+- icon: award
+  icon_pack: fas
+  link: https://www.credly.com/users/kelvinndunguwainaina/badges
+- icon: file-pdf
+  icon_pack: fas
+  link: files/kelvin-wainaina-resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kelvinwainaina03@gmail.com"
+email: "kelvin.wainaina@tendatech.net"
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
-Kelvin Ndungu Wainaina is a student of Computer Science at Laikipia University.
-His research interests include Machine Learning Web Development and Android Development.
+*Software developer · Nairobi — Fullstack engineer. Python, JavaScript, and products that ship.*
 
-A mentor in Laikipia University in the  Developer Student Clubs (DSC) Laikipia University Chapter. 
-The goal of DSC globally is to help students bridge the gap between theory and practice.
-The chapter was introduced in 2019 and we did a great work in bringing in students.
-The focus on fostering collaboration among developers or aspiring developers and non-developers.
+Fullstack software developer with a strong focus on **Python** (Flask, Django) and **JavaScript** (React, React Native, TypeScript, Vue, Angular). Led the development of an e-commerce platform at **Sparepap Limited** using Python (Django), built RESTful APIs for seamless integration, and delivered the **Ice Breaker** legal defender app and CRM alongside production mobile releases to the **App Store** and **Play Store**.
 
+I co-founded **[Tenda Tech](https://www.tendatech.net/KelvinWainaina)** in Nairobi to build, ship, and maintain scalable web platforms, mobile apps, and digital systems for operators in Kenya and the United States. Aims to leverage coding expertise and project management skills to drive innovative software solutions and digital transformation.
+
+<p class="mt-3 mb-3">
+  <a class="btn btn-primary btn-sm mr-2 mb-2" href="/files/kelvin-wainaina-resume.pdf" download>
+    <i class="fas fa-download pr-1 fa-fw" aria-hidden="true"></i> Download CV (PDF)
+  </a>
+  <a class="btn btn-outline-primary btn-sm mb-2" href="mailto:kelvin.wainaina@tendatech.net">
+    <i class="fas fa-envelope pr-1 fa-fw" aria-hidden="true"></i> Email me
+  </a>
+</p>
+
+**Academic coursework (BSc, Computer Science):** Data Structures & Algorithms, Object-Oriented Programming, System Analysis & Design, Web Development, IoT, Software Engineering Principles, Artificial Intelligence & Database Design.
